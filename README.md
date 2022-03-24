@@ -1,4 +1,6 @@
 # TikTok2
+- Find new friends
+- new videos
 Here's the feature for videos.
 - You can easily sort through your favorite categories.
 - Your likes will sort out the content you are more likely to enjoy.
